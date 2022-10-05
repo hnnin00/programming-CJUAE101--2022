@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\4thWeek\Prob_1\Prob_1\main.cpp(5,8): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\4thWeek\Prob_1\Prob_1\main.cpp(5,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Prob_1.vcxproj -> C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\4thWeek\Prob_1\x64\Debug\Prob_1.exe
