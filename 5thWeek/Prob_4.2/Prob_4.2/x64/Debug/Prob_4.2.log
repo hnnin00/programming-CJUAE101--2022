@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\5thWeek\Prob_4.2\Prob_4.2\main.cpp(5,1): warning C4005: 'RAND_MAX': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(348): message : 'RAND_MAX'의 이전 정의를 참조하십시오.
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\5thWeek\Prob_4.2\Prob_4.2\main.cpp(9,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Prob_4.2.vcxproj -> C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\5thWeek\Prob_4.2\x64\Debug\Prob_4.2.exe
