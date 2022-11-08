@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\6thWeek\Prob_1\Prob_1\main.cpp(4,1): warning C4005: 'RAND_MAX': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(348): message : 'RAND_MAX'의 이전 정의를 참조하십시오.
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\6thWeek\Prob_1\Prob_1\main.cpp(12,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\6thWeek\Prob_1\Prob_1\main.cpp(58,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\6thWeek\Prob_1\Prob_1\main.cpp(58,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\6thWeek\Prob_1\Prob_1\main.cpp(58,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\6thWeek\Prob_1\Prob_1\main.cpp(58,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+  Prob_1.vcxproj -> C:\Users\82108\Documents\GitHub\programming-CJUAE101--2022\6thWeek\Prob_1\x64\Debug\Prob_1.exe
